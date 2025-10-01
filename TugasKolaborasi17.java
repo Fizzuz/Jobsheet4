@@ -4,5 +4,6 @@ public class TugasKolaborasi17{
         System.out.println("-------------------");
         System.out.println("Testinggg");
         System.out.println("ini pembajakan");
+        System.out.println("oleh Averose Arthur");
     }
 }
